@@ -1,4 +1,4 @@
 # Pratap
 First Project
 <br>
-Author - Pratap Sing
+Author - Pratap Singh
